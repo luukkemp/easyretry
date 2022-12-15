@@ -13,6 +13,9 @@ retry
 
 Easy to use retry decorator.
 
+Originally forked from `https://github.com/invl/retry`,
+since we use this library quite heavily, and the original is no longer maintained.
+
 
 Features
 --------
