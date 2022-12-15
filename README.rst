@@ -30,7 +30,7 @@ Installation
 
 .. code-block:: bash
 
-    $ pip install retry
+    $ pip install easyretry
 
 
 API

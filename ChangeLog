@@ -1,6 +1,7 @@
 CHANGES
 =======
 
+* Rename to easyretry and removing py dependency
 * Trim setup.py
 * Move NullHandler to .compat
 * Expose retry.retry\_call
